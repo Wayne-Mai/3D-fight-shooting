@@ -10,12 +10,11 @@ For profit bussiness, please contact me as the copyright of these code
 also belongs to my teammates.
 
 
-
 这是一个组队完成的计算机图形学项目。
 
 
 
-# 操作说明
+# How to play
 
 注：运行本程序需要安装java 8或以上版本的java. 建议使用独立显卡运行。
 
@@ -29,6 +28,12 @@ P暂停或继续。
 
 分数达到一定值后出现boss，boss有一定血量，击败boss后胜利。
 
-# 运行截图
+# Screenshot
+![](readMeImg/sample.gif)
+To be done.
+
+# Implementation details
+
+To be done.
 
 
