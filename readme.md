@@ -30,10 +30,11 @@ P暂停或继续。
 
 # Screenshot
 ![](readMeImg/sample.gif)
-To be done.
 
 # Implementation details
 
-To be done.
+![](readMeImg/crash.png)
+![](readMeImg/ground.png)
+![](readMeImg/p.gif)
 
 
